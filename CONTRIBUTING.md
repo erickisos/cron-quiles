@@ -52,9 +52,9 @@ Las sugerencias son bienvenidas:
    ```
 
    Usa mensajes de commit descriptivos siguiendo [Conventional Commits](https://www.conventionalcommits.org/) **en español**:
-   
+
    **Formato**: `tipo(ámbito): descripción`
-   
+
    **Tipos de commit**:
    - `feat:` para nuevas funcionalidades
    - `fix:` para correcciones de bugs
@@ -67,7 +67,7 @@ Las sugerencias son bienvenidas:
    - `ci:` para cambios en CI/CD
    - `build:` para cambios en el sistema de build
    - `revert:` para revertir un commit anterior
-   
+
    **Ejemplos**:
    ```bash
    git commit -m "feat(calendario): agregar soporte para Google Calendar"
@@ -77,7 +77,7 @@ Las sugerencias son bienvenidas:
    git commit -m "test(ics_aggregator): agregar tests para eventos duplicados"
    git commit -m "chore(deps): actualizar dependencias a última versión"
    ```
-   
+
    **Reglas importantes**:
    - Usa español en la descripción
    - La descripción debe estar en minúsculas (excepto nombres propios)
