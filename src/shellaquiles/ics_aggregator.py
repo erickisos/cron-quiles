@@ -158,8 +158,16 @@ class EventNormalized:
         if not self.dtstart:
             return f"{self.title}_no_date"
 
-        # Redondear a la hora más cercana para tolerancia de ±2 horas
-        hour_rounded = self.dtstart.replace(minute=0, second=0, microsecond=0)
+        # Redondear hacia abajo al bloque de 2 horas más cercano
+        # para tolerancia de ±2 horas
+        # Esto agrupa eventos en ventanas de 2 horas:
+        # 0-1, 2-3, 4-5, ..., 18-19, 20-21, 22-23
+        hour = self.dtstart.hour
+        # Redondear hacia abajo al número par más cercano (0, 2, 4, ..., 22)
+        hour_block = (hour // 2) * 2
+        hour_rounded = self.dtstart.replace(
+            hour=hour_block, minute=0, second=0, microsecond=0
+        )
         return f"{self.title}_{hour_rounded.isoformat()}"
 
     def _extract_tags(self) -> Set[str]:
