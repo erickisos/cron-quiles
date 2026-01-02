@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T21:16:53.067659+00:00",
-  "total_events": 156,
+  "generated_at": "2026-01-02T21:29:46.406877+00:00",
+  "total_events": 171,
   "city": "Online",
   "communities": [
     {
@@ -118,6 +118,14 @@
     {
       "name": "The Dojo MX",
       "description": "Aprende y desarrolla habilidades de manos de los mejores desarrolladores de México. Talleres presenciales o en línea."
+    },
+    {
+      "name": "Mexico Tech Week",
+      "description": "Calendario oficial de Mexico Tech Week 2025."
+    },
+    {
+      "name": "Claude Users Group",
+      "description": ""
     }
   ],
   "events": [
@@ -214,10 +222,10 @@
       "dtstart": "2020-05-30T12:00:00-05:00",
       "dtend": null,
       "tags": [
-        "mobile",
+        "web",
         "frontend",
-        "ai",
-        "web"
+        "mobile",
+        "ai"
       ],
       "source": "https://www.meetup.com/hackrobotsmx/events/?type=past",
       "country": "",
@@ -238,12 +246,12 @@
       "dtstart": "2020-06-10T19:00:00-05:00",
       "dtend": null,
       "tags": [
-        "mobile",
-        "python",
+        "web",
         "frontend",
-        "ai",
+        "python",
         "backend",
-        "web"
+        "mobile",
+        "ai"
       ],
       "source": "https://www.meetup.com/eventloop/events/?type=past",
       "country": "",
@@ -284,8 +292,8 @@
       "dtend": null,
       "tags": [
         "web",
-        "backend",
-        "frontend"
+        "frontend",
+        "backend"
       ],
       "source": "https://www.meetup.com/eventloop/events/?type=past",
       "country": "France",
@@ -348,10 +356,10 @@
       "dtstart": "2020-10-19T08:00:00-05:00",
       "dtend": null,
       "tags": [
-        "mobile",
         "frontend",
-        "ai",
-        "devops"
+        "mobile",
+        "devops",
+        "ai"
       ],
       "source": "https://www.meetup.com/openinfrastructurecdmx/events/?type=past",
       "country": "",
@@ -373,8 +381,8 @@
       "dtend": null,
       "tags": [
         "web",
-        "backend",
-        "frontend"
+        "frontend",
+        "backend"
       ],
       "source": "https://www.meetup.com/eventloop/events/?type=past",
       "country": "",
@@ -396,8 +404,8 @@
       "dtend": null,
       "tags": [
         "frontend",
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
       "country": "",
@@ -496,11 +504,11 @@
       "dtstart": "2021-03-25T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "mobile",
+        "web",
         "frontend",
-        "ai",
         "backend",
-        "web"
+        "mobile",
+        "ai"
       ],
       "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
       "country": "",
@@ -612,8 +620,8 @@
       "dtstart": "2021-10-01T09:00:00-05:00",
       "dtend": null,
       "tags": [
-        "python",
         "frontend",
+        "python",
         "ai"
       ],
       "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
@@ -657,11 +665,11 @@
       "dtstart": "2021-10-25T09:00:00-05:00",
       "dtend": null,
       "tags": [
-        "security",
         "frontend",
-        "ai",
+        "cloud",
         "backend",
-        "cloud"
+        "security",
+        "ai"
       ],
       "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
       "country": "",
@@ -682,12 +690,12 @@
       "dtstart": "2021-10-28T12:00:00-05:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
         "cloud",
-        "devops"
+        "security",
+        "devops",
+        "ai"
       ],
       "source": "https://www.meetup.com/mexico-city-docker-friends/events/?type=past",
       "country": "",
@@ -708,10 +716,10 @@
       "dtstart": "2021-11-16T10:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
         "frontend",
-        "ai",
-        "cloud"
+        "cloud",
+        "security",
+        "ai"
       ],
       "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
       "country": "",
@@ -835,11 +843,11 @@
       "dtstart": "2022-05-02T19:00:00-05:00",
       "dtend": null,
       "tags": [
-        "python",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
+        "python",
         "cloud",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/pythonista/events/?type=past",
@@ -880,9 +888,9 @@
       "dtstart": "2022-06-28T20:00:00-05:00",
       "dtend": null,
       "tags": [
-        "mobile",
         "frontend",
         "cloud",
+        "mobile",
         "data"
       ],
       "source": "https://www.meetup.com/php-the-right-way/events/?type=past",
@@ -926,10 +934,10 @@
       "dtstart": "2022-06-30T19:00:00-05:00",
       "dtend": null,
       "tags": [
-        "mobile",
+        "web",
         "frontend",
-        "ai",
-        "web"
+        "mobile",
+        "ai"
       ],
       "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
       "country": "",
@@ -971,12 +979,12 @@
       "dtstart": "2022-07-18T20:00:00-05:00",
       "dtend": null,
       "tags": [
-        "mobile",
-        "python",
+        "web",
         "frontend",
-        "ai",
+        "python",
         "backend",
-        "web"
+        "mobile",
+        "ai"
       ],
       "source": "https://www.meetup.com/pythonista/events/?type=past",
       "country": "",
@@ -1038,9 +1046,9 @@
       "dtend": null,
       "tags": [
         "frontend",
-        "ai",
         "cloud",
-        "devops"
+        "devops",
+        "ai"
       ],
       "source": "https://www.meetup.com/openinfrastructurecdmx/events/?type=past",
       "country": "",
@@ -1061,8 +1069,8 @@
       "dtstart": "2022-08-22T19:00:00-05:00",
       "dtend": null,
       "tags": [
-        "frontend",
-        "ai"
+        "ai",
+        "frontend"
       ],
       "source": "https://www.meetup.com/sysarmy-mexico/events/?type=past",
       "country": "",
@@ -1084,8 +1092,8 @@
       "dtend": null,
       "tags": [
         "web",
-        "backend",
-        "frontend"
+        "frontend",
+        "backend"
       ],
       "source": "https://www.meetup.com/php-the-right-way/events/?type=past",
       "country": "",
@@ -1148,8 +1156,8 @@
       "dtstart": "2022-09-20T20:00:00-05:00",
       "dtend": null,
       "tags": [
-        "mobile",
         "web",
+        "mobile",
         "backend"
       ],
       "source": "https://www.meetup.com/php-the-right-way/events/?type=past",
@@ -1171,12 +1179,12 @@
       "dtstart": "2022-10-04T10:00:00-05:00",
       "dtend": null,
       "tags": [
-        "security",
         "frontend",
-        "ai",
-        "backend",
         "cloud",
-        "devops"
+        "backend",
+        "security",
+        "devops",
+        "ai"
       ],
       "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
       "country": "",
@@ -1237,8 +1245,8 @@
       "dtstart": "2022-10-14T19:00:00-05:00",
       "dtend": null,
       "tags": [
-        "security",
-        "backend"
+        "backend",
+        "security"
       ],
       "source": "https://www.meetup.com/notrustsec/events/?type=past",
       "country": "",
@@ -1283,11 +1291,11 @@
       "dtstart": "2022-10-27T16:00:00-05:00",
       "dtend": null,
       "tags": [
-        "python",
         "frontend",
-        "ai",
+        "python",
+        "cloud",
         "backend",
-        "cloud"
+        "ai"
       ],
       "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
       "country": "",
@@ -1308,9 +1316,9 @@
       "dtstart": "2022-11-07T20:00:00-06:00",
       "dtend": null,
       "tags": [
-        "mobile",
         "frontend",
         "python",
+        "mobile",
         "data"
       ],
       "source": "https://www.meetup.com/pythonista/events/?type=past",
@@ -1375,9 +1383,9 @@
       "dtend": null,
       "tags": [
         "frontend",
-        "ai",
         "cloud",
-        "devops"
+        "devops",
+        "ai"
       ],
       "source": "https://www.meetup.com/openinfrastructurecdmx/events/?type=past",
       "country": "",
@@ -1422,9 +1430,9 @@
       "dtstart": "2022-12-05T20:00:00-06:00",
       "dtend": null,
       "tags": [
-        "mobile",
         "frontend",
         "python",
+        "mobile",
         "data"
       ],
       "source": "https://www.meetup.com/pythonista/events/?type=past",
@@ -1514,11 +1522,11 @@
       "dtstart": "2023-06-30T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "mobile",
+        "web",
         "frontend",
-        "ai",
-        "web"
+        "mobile",
+        "security",
+        "ai"
       ],
       "source": "https://www.meetup.com/notrustsec/events/?type=past",
       "country": "France",
@@ -1539,8 +1547,8 @@
       "dtstart": "2023-08-28T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "backend",
         "python",
+        "backend",
         "data"
       ],
       "source": "https://www.meetup.com/pythonista/events/?type=past",
@@ -1585,10 +1593,10 @@
       "dtstart": "2023-10-04T11:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "ai",
         "cloud",
-        "devops"
+        "security",
+        "devops",
+        "ai"
       ],
       "source": "https://www.meetup.com/mexico-city-docker-friends/events/?type=past",
       "country": "",
@@ -1630,8 +1638,8 @@
       "dtstart": "2023-10-24T12:00:00-06:00",
       "dtend": null,
       "tags": [
-        "backend",
         "python",
+        "backend",
         "ai"
       ],
       "source": "https://www.meetup.com/pythonista/events/?type=past",
@@ -1653,8 +1661,8 @@
       "dtstart": "2023-12-11T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "cloud",
-        "devops"
+        "devops",
+        "cloud"
       ],
       "source": "https://www.meetup.com/devops-workshop/events/?type=past",
       "country": "",
@@ -1676,8 +1684,8 @@
       "dtend": null,
       "tags": [
         "frontend",
-        "cloud",
-        "devops"
+        "devops",
+        "cloud"
       ],
       "source": "https://www.meetup.com/devops-workshop/events/?type=past",
       "country": "",
@@ -1742,11 +1750,11 @@
       "dtstart": "2024-03-15T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "python",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
+        "python",
         "cloud",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/gittogether-cdmx/events/?type=past",
@@ -1768,10 +1776,10 @@
       "dtstart": "2024-04-03T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "ai",
-        "backend",
         "web",
-        "cloud"
+        "backend",
+        "cloud",
+        "ai"
       ],
       "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
       "country": "",
@@ -1782,6 +1790,25 @@
       "city_code": "",
       "address": "Presencial (Ubicación TBD)",
       "hash_key": "trabajando con aws cdk en typescript_2024-04-04T00:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|M8l Event 2|Online",
+      "description": "Get up-to-date information at: https://luma.com/9reeuyax\n\nAddress:\n\n\nHosted by Mexico Tech Week",
+      "url": "https://luma.com/9reeuyax",
+      "location": "hosted by mexico tech week",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-05-01T08:10:00+00:00",
+      "dtend": "2024-05-01T09:10:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "hosted by mexico tech week",
+      "hash_key": "m8l event 2_2024-05-01T08:00:00+00:00"
     },
     {
       "title": "html5-ciudad-de-mexico|Free OPEN Passes to DeveloperWeek Latin America 2024|Online",
@@ -1875,8 +1902,8 @@
       "dtstart": "2024-08-01T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "frontend",
-        "ai"
+        "ai",
+        "frontend"
       ],
       "source": "https://www.meetup.com/agilility-talks/events/?type=past",
       "country": "",
@@ -1964,8 +1991,8 @@
       "dtstart": "2024-09-10T10:00:00-06:00",
       "dtend": null,
       "tags": [
-        "mobile",
         "web",
+        "mobile",
         "backend"
       ],
       "source": "https://www.meetup.com/mexico-city-unity-user-group/events/?type=past",
@@ -2023,6 +2050,214 @@
       "hash_key": "facilitacin en scrum cmo transformar obstculos en oportunidades_2024-10-04T00:00:00+00:00"
     },
     {
+      "title": "Mexico Tech Week|Fintech panel & Mixer / Citibanamex & Latin Leap|Online",
+      "description": "Get up-to-date information at: https://luma.com/bzl2ht1u\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & Nancy Zapata",
+      "url": "https://luma.com/bzl2ht1u",
+      "location": "https://luma.com/event/evt-nEybxHSpeEO0Idy",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-22T01:00:00+00:00",
+      "dtend": "2024-10-22T03:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-nEybxHSpeEO0Idy",
+      "hash_key": "fintech panel mixer citibanamex latin leap_2024-10-22T00:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Official Mexico Tech Week Kickoff by Zillow & AWS Startups|Online",
+      "description": "Get up-to-date information at: https://luma.com/2jap9weq\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & Bernardo",
+      "url": "https://luma.com/2jap9weq",
+      "location": "https://luma.com/event/evt-4rq7WL1BgyZuTKF",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-22T01:00:00+00:00",
+      "dtend": "2024-10-22T04:00:00+00:00",
+      "tags": [
+        "cloud",
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-4rq7WL1BgyZuTKF",
+      "hash_key": "official mexico tech week kickoff by zillow aws startups_2024-10-22T00:00:00+00:00"
+    },
+    {
+      "title": "Yuri Rabinovich|VNTR Investors Roundtable Mexico City|Online",
+      "description": "Get up-to-date information at: https://luma.com/qhozx2sx\n\nAddress:\nWill be disclosed with approved guests\n\nHosted by Yuri Rabinovich & Gaurav Sharma",
+      "url": "https://luma.com/qhozx2sx",
+      "location": "Will be disclosed with approved guests",
+      "organizer": "Yuri Rabinovich",
+      "dtstart": "2024-10-22T14:30:00+00:00",
+      "dtend": "2024-10-22T18:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "Will be disclosed with approved guests",
+      "hash_key": "vntr investors roundtable mexico city_2024-10-22T14:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Michelin Star Culinary Tour ✴✴✴ CDMX|México|",
+      "description": "Get up-to-date information at: https://luma.com/ux91ykez\n\nAddress:\n\n\nHosted by Mexico Tech Week & Hi Ventures",
+      "url": "https://luma.com/ux91ykez",
+      "location": "hosted by mexico tech week & hi ventures",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-22T15:00:00+00:00",
+      "dtend": "2024-10-23T04:00:00+00:00",
+      "tags": [
+        "frontend"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "México",
+      "hash_key": "michelin star culinary tour cdmx_2024-10-22T14:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|AI for Devs|Online",
+      "description": "Get up-to-date information at: https://luma.com/soyhenry\n\nHosted by Mexico Tech Week & Julieta",
+      "url": "https://luma.com/soyhenry",
+      "location": "https://luma.com/event/evt-tPsCHgtWHxx5GsJ",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-23T00:00:00+00:00",
+      "dtend": "2024-10-23T01:00:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-tPsCHgtWHxx5GsJ",
+      "hash_key": "ai for devs_2024-10-23T00:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|The AORA Model: How Startups can use Social Impact as a  Competitive Advantage|Online",
+      "description": "Get up-to-date information at: https://luma.com/n81oj29u\n\nHosted by Mexico Tech Week & Luciano Moya",
+      "url": "https://luma.com/n81oj29u",
+      "location": "https://luma.com/event/evt-JyNlPZhKKSXkkXG",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-23T00:00:00+00:00",
+      "dtend": "2024-10-23T01:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-JyNlPZhKKSXkkXG",
+      "hash_key": "the aora model how startups can use social impact as a competitive advantage_2024-10-23T00:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|🌞Community Day powered by Milia⚡#MexicoTechWeek|Online",
+      "description": "Get up-to-date information at: https://luma.com/b1z4i3en\n\nHosted by Mexico Tech Week & Guillermo Vizcaino",
+      "url": "https://luma.com/b1z4i3en",
+      "location": "https://luma.com/event/evt-gpAIOkVpeUyDNIZ",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-23T17:00:00+00:00",
+      "dtend": "2024-10-23T18:30:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-gpAIOkVpeUyDNIZ",
+      "hash_key": "community day powered by milia mexicotechweek_2024-10-23T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Online Speed Networking by Milia⚡️#MexicoTechWeek|Online",
+      "description": "Get up-to-date information at: https://luma.com/ry8nt8ii\n\nHosted by Mexico Tech Week & Guillermo Vizcaino",
+      "url": "https://luma.com/ry8nt8ii",
+      "location": "https://luma.com/event/evt-mRO6US6iBsyPg8p",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-23T18:00:00+00:00",
+      "dtend": "2024-10-23T18:30:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-mRO6US6iBsyPg8p",
+      "hash_key": "online speed networking by milia mexicotechweek_2024-10-23T18:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|Generative AI: Arquitectura, Funcionamiento y Aplicaciones en la Nube|Online",
+      "description": "Get up-to-date information at: https://luma.com/nbegq0w4\n\nHosted by Mexico Tech Week, Craftech & Jesus Liernur",
+      "url": "https://luma.com/nbegq0w4",
+      "location": "https://luma.com/event/evt-r02QQbE0hAcpo3X",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-24T17:00:00+00:00",
+      "dtend": "2024-10-24T18:00:00+00:00",
+      "tags": [
+        "ai",
+        "frontend"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-r02QQbE0hAcpo3X",
+      "hash_key": "generative ai arquitectura funcionamiento y aplicaciones en la nube_2024-10-24T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|\"Corporativos, Academia e Inversión para Mexico como el Hub Tecnológico de Latinoamérica\"|México|",
+      "description": "Get up-to-date information at: https://luma.com/qbmnn3zn\n\nAddress:\n\n\nHosted by Mexico Tech Week & Maria Beltran",
+      "url": "https://luma.com/qbmnn3zn",
+      "location": "hosted by mexico tech week & maria beltran",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-24T18:00:00+00:00",
+      "dtend": "2024-10-24T20:00:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "México",
+      "hash_key": "corporativos academia e inversin para mexico como el hub tecnolgico de latinoamrica_2024-10-24T18:00:00+00:00"
+    },
+    {
       "title": "gittogether-latam|Construyendo puentes en IA: Xavi Portilla y la integración GitHub-Genkit|Online",
       "description": "Este #OpenSourceViernes, **[Xavier Portilla Edo](https://github.com/xavidop)**, GitHub Star y creador de [genkitx-github](genkitx-github), nos presentará su plugin comunitario que integra los modelos de GitHub con [Firebase Genkit](https://github.com/firebase/genkit). Xavier, con experiencia en Cloud, Kubernetes, DevOps e IA Conversacional, explicará cómo genkitx-github facilita el desarrollo de aplicaciones innovadoras. Analizaremos el impacto de esta herramienta en el desarrollo de software moderno y exploraremos sus aplicaciones prácticas. Únete a nosotros para una sesión informativa y colaborativa, donde podrás aprender de la experiencia de Xavier.",
       "url": "https://www.meetup.com/gittogether-latam/events/303902192/",
@@ -2031,8 +2266,8 @@
       "dtstart": "2024-10-25T09:00:00-06:00",
       "dtend": null,
       "tags": [
-        "cloud",
-        "devops"
+        "devops",
+        "cloud"
       ],
       "source": "https://www.meetup.com/gittogether-latam/events/?type=past",
       "country": "",
@@ -2045,6 +2280,48 @@
       "hash_key": "construyendo puentes en ia xavi portilla y la integracin github genkit_2024-10-25T14:00:00+00:00"
     },
     {
+      "title": "Cuantico VP|Mexico Venture Capital Report: An Overview for 2024|Online",
+      "description": "Get up-to-date information at: https://luma.com/8h9xrdh8\n\nHosted by Cuantico VP, Mexico Tech Week & Startuplinks Community",
+      "url": "https://luma.com/8h9xrdh8",
+      "location": "https://luma.com/event/evt-PrP4i8wg2oKljAl",
+      "organizer": "Cuantico VP",
+      "dtstart": "2024-10-25T16:00:00+00:00",
+      "dtend": "2024-10-25T17:00:00+00:00",
+      "tags": [
+        "backend"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-PrP4i8wg2oKljAl",
+      "hash_key": "mexico venture capital report an overview for 2024_2024-10-25T16:00:00+00:00"
+    },
+    {
+      "title": "Mexico Tech Week|TechLab: Introducción a Ciencia de Datos|Online",
+      "description": "Get up-to-date information at: https://luma.com/bvb0y7s9\n\nAddress:\nCheck event page for more details.\n\nHosted by Mexico Tech Week & Intellectia Academy",
+      "url": "https://luma.com/bvb0y7s9",
+      "location": "https://luma.com/event/evt-wBOQH6RufOXQ7Hu",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-25T20:30:00+00:00",
+      "dtend": "2024-10-25T21:30:00+00:00",
+      "tags": [
+        "ai"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-wBOQH6RufOXQ7Hu",
+      "hash_key": "techlab introduccin a ciencia de datos_2024-10-25T20:00:00+00:00"
+    },
+    {
       "title": "pythonista|Potenciando los chatbots mediante Vertex AI Agent Builder|Online",
       "description": "En este webinar, exploraremos cómo los Large Language Models (LLMs) están revolucionando la forma en que interactuamos con la tecnología. Aprenderá cómo se pueden utilizar para crear agentes de inteligencia artificial capaces de mantener conversaciones enriquecidas y contextualmente relevantes. Descubrirá cómo superar las limitaciones de los chatbots tradicionales y brindar una experiencia de usuario verdaderamente personalizada y satisfactoria. Además, **exploraremos la plataforma Vertex AI Agent Builder de Google, una herramienta poderosa para construir y desplegar agentes de IA conversacionales de manera eficiente, así como su API en Python.**",
       "url": "https://www.meetup.com/pythonista/events/303750954/",
@@ -2053,11 +2330,11 @@
       "dtstart": "2024-10-25T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "python",
+        "web",
         "frontend",
-        "ai",
+        "python",
         "backend",
-        "web"
+        "ai"
       ],
       "source": "https://www.meetup.com/pythonista/events/?type=past",
       "country": "",
@@ -2070,6 +2347,25 @@
       "hash_key": "potenciando los chatbots mediante vertex ai agent builder_2024-10-26T00:00:00+00:00"
     },
     {
+      "title": "Mexico Tech Week|Disconnect to connect con Tally|México|",
+      "description": "Get up-to-date information at: https://luma.com/lq8qr9ji\n\nAddress:\n\n\nHosted by Mexico Tech Week & Carlos Dávila",
+      "url": "https://luma.com/lq8qr9ji",
+      "location": "hosted by mexico tech week & carlos dávila",
+      "organizer": "Mexico Tech Week",
+      "dtstart": "2024-10-26T14:00:00+00:00",
+      "dtend": "2024-10-26T18:30:00+00:00",
+      "tags": [],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-jWh40NRx2vB56Tu",
+      "country": "México",
+      "country_code": "MX",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "México",
+      "hash_key": "disconnect to connect con tally_2024-10-26T14:00:00+00:00"
+    },
+    {
       "title": "mexico-city-unity-user-group|Webinar: Mobile game optimization in Unity 6|Online",
       "description": "(**\\*NOTE:** You must register for this webinar using the link below. RSVPing through meetup will not get you access)\n\nJoin us on **Wednesday, November 6, 2024 at 12:00 pm ET / 9:00 am PT** for a webinar on Mobile game optimization in Unity 6.\nDuring the webinar, Mark Schoennagel will open up Fantasy Kingdom in Unity 6 to show you how new Unity 6 optimization can help you build more ambitious mobile games than ever before. Some of the features covered include:\n\n* GPU Resident Drawer\n* Render Graph\n* Spatial-Temporal Post-Processing (STP)\n\nFollowing the demo, there will be a can’t-miss Q&A segment, where we’ll answer questions from you and the community.\n\n[Register Now!](https://unity3d.info/4eeLizb)\n\n(**\\*\\*NOTE**: Registering for the webinar on the day of the event may result in the view link being sent to you after the event is over. Be sure to register early!)",
       "url": "https://www.meetup.com/mexico-city-unity-user-group/events/304269226/",
@@ -2078,8 +2374,8 @@
       "dtstart": "2024-11-06T11:00:00-06:00",
       "dtend": null,
       "tags": [
-        "mobile",
         "web",
+        "mobile",
         "frontend"
       ],
       "source": "https://www.meetup.com/mexico-city-unity-user-group/events/?type=past",
@@ -2122,8 +2418,8 @@
       "dtstart": "2024-11-14T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "cloud",
-        "devops"
+        "devops",
+        "cloud"
       ],
       "source": "https://www.meetup.com/devops-workshop/events/?type=past",
       "country": "",
@@ -2145,8 +2441,8 @@
       "dtend": null,
       "tags": [
         "frontend",
-        "cloud",
-        "devops"
+        "devops",
+        "cloud"
       ],
       "source": "https://www.meetup.com/devops-workshop/events/?type=past",
       "country": "",
@@ -2186,12 +2482,12 @@
       "dtstart": "2025-02-11T08:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
         "cloud",
+        "security",
         "devops",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/html5-ciudad-de-mexico/events/?type=past",
@@ -2279,9 +2575,9 @@
       "dtstart": "2025-03-13T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "mobile",
-        "python",
         "frontend",
+        "python",
+        "mobile",
         "ai",
         "data"
       ],
@@ -2325,9 +2621,9 @@
       "dtstart": "2025-03-14T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "mobile",
         "frontend",
+        "mobile",
+        "security",
         "ai"
       ],
       "source": "https://www.meetup.com/gdg-ciudad-de-mexico/events/?type=past",
@@ -2481,8 +2777,8 @@
       "dtstart": "2025-05-08T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
       "country": "",
@@ -2503,8 +2799,8 @@
       "dtstart": "2025-05-15T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
       "country": "",
@@ -2546,8 +2842,8 @@
       "dtstart": "2025-05-22T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
       "country": "",
@@ -2589,8 +2885,8 @@
       "dtstart": "2025-05-29T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
       "country": "",
@@ -2611,8 +2907,8 @@
       "dtstart": "2025-06-05T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
       "country": "",
@@ -2633,8 +2929,8 @@
       "dtstart": "2025-06-12T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
       "country": "",
@@ -2655,8 +2951,8 @@
       "dtstart": "2025-06-19T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
       "country": "",
@@ -2677,8 +2973,8 @@
       "dtstart": "2025-06-26T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
       "country": "",
@@ -2722,8 +3018,8 @@
       "dtstart": "2025-07-03T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
       "country": "",
@@ -2744,8 +3040,8 @@
       "dtstart": "2025-07-10T18:30:00-06:00",
       "dtend": null,
       "tags": [
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/apache-spark-mexicocity/events/?type=past",
       "country": "",
@@ -2826,6 +3122,27 @@
       "hash_key": "introduccin a ebpf_2025-08-22T00:00:00+00:00"
     },
     {
+      "title": "Martin Manriquez Leon|Build with Claude Code|Online",
+      "description": "Get up-to-date information at: https://luma.com/z4d0punf\n\nHosted by Martin Manriquez Leon & Ricardo Lira de la Vega",
+      "url": "https://luma.com/z4d0punf",
+      "location": "https://luma.com/event/evt-T9Ma1BnBItT1Yb2",
+      "organizer": "Martin Manriquez Leon",
+      "dtstart": "2025-09-12T01:00:00+00:00",
+      "dtend": "2025-09-12T02:30:00+00:00",
+      "tags": [
+        "frontend"
+      ],
+      "source": "https://api2.luma.com/ics/get?entity=calendar&id=cal-gKhhS6fDDrX3mqz",
+      "country": "",
+      "country_code": "",
+      "state": "",
+      "state_code": "",
+      "city": "",
+      "city_code": "",
+      "address": "https://luma.com/event/evt-T9Ma1BnBItT1Yb2",
+      "hash_key": "build with claude code_2025-09-12T00:00:00+00:00"
+    },
+    {
       "title": "kong-mexico-city|Insomnia Unleashed: Next-Level API Collaboration, Testing & Debugging for Modern|Online",
       "description": "APIs are at the heart of modern software, but they don’t exist in isolation—and neither should your tools. Join us for an in-depth demonstration of[ Kong Insomnia](https://www.konghq.com/solutions/insomnia), the developer-first platform designed for seamless API collaboration, confident testing, and limitless debugging. Whether you’re looking to streamline teamwork, migrate over, or gain flexibility in how and where your data is stored, Insomnia is built to put developers in control.\n\nWe’ve been hard at work making Insomnia even better, and this session will showcase the latest improvements in v11.6—a fresh wave of updates that reflect our ongoing investment in developer experience. Insomnia can be the API client for teams of one, ten or ten thousand.\n\nDuring this session, you’ll discover how Insomnia’s powerful features—like Git Sync, effortless migration, and adaptable storage options—help teams move faster, work better together, and fully own their API development process. See firsthand how Insomnia removes bottlenecks and empowers your entire team to innovate without limits.\n\nKey Takeaways:\n\n1. **Seamless Collaboration with Git Sync**\nLearn how Insomnia’s built-in Git Sync keeps your API projects version-controlled and effortlessly synchronized across your team, eliminating friction and ensuring everyone’s always up to date.\n\n2. **Easy Migration**\nDiscover how simple it is to import your collections into Insomnia, enabling your team to make the switch in just a few clicks—without losing any of your valuable work.\n\n3. **Flexible Storage for Every Workflow**\nExplore Insomnia’s flexible storage options, whether you prefer local, your own cloud, or Kong’s cloud. Gain full control over your data and adapt your workflow to meet your security and compliance needs.\n\nJoin us to see why Insomnia is the go-to alternative for modern API development, and get a first look at the latest innovations in v11.6—helping you build, test, and debug APIs faster, with full confidence and total team alignment.",
       "url": "https://www.meetup.com/kong-mexico-city/events/310890121/",
@@ -2834,11 +3151,11 @@
       "dtstart": "2025-09-16T09:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
         "frontend",
-        "ai",
-        "backend",
         "cloud",
+        "backend",
+        "security",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
@@ -2860,11 +3177,11 @@
       "dtstart": "2025-09-18T10:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
         "cloud",
+        "security",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
@@ -2908,11 +3225,11 @@
       "dtstart": "2025-09-23T10:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
         "frontend",
-        "ai",
         "backend",
-        "devops"
+        "security",
+        "devops",
+        "ai"
       ],
       "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
       "country": "",
@@ -2933,8 +3250,8 @@
       "dtstart": "2025-09-23T17:45:00-06:00",
       "dtend": null,
       "tags": [
-        "mobile",
-        "backend"
+        "backend",
+        "mobile"
       ],
       "source": "https://www.meetup.com/flutter-mexico-city/events/?type=past",
       "country": "",
@@ -2955,9 +3272,9 @@
       "dtstart": "2025-09-25T09:00:00-06:00",
       "dtend": null,
       "tags": [
-        "backend",
         "frontend",
-        "cloud"
+        "cloud",
+        "backend"
       ],
       "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
       "country": "",
@@ -2978,11 +3295,11 @@
       "dtstart": "2025-09-25T10:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
         "cloud",
+        "security",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
@@ -3004,11 +3321,11 @@
       "dtstart": "2025-09-25T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "frontend",
-        "ai",
-        "backend",
         "web",
+        "frontend",
         "cloud",
+        "backend",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/ajolotesenlanube/events/?type=past",
@@ -3030,8 +3347,8 @@
       "dtstart": "2025-09-30T21:30:00-06:00",
       "dtend": null,
       "tags": [
-        "frontend",
-        "ai"
+        "ai",
+        "frontend"
       ],
       "source": "https://www.meetup.com/digitaloceanmex/events/?type=past",
       "country": "",
@@ -3071,8 +3388,8 @@
       "dtstart": "2025-10-08T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "mobile",
         "web",
+        "mobile",
         "frontend"
       ],
       "source": "https://www.meetup.com/agilility-talks/events/?type=past",
@@ -3116,10 +3433,10 @@
       "dtstart": "2025-10-14T21:30:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "ai",
         "backend",
-        "cloud"
+        "cloud",
+        "security",
+        "ai"
       ],
       "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
       "country": "",
@@ -3140,10 +3457,10 @@
       "dtstart": "2025-10-16T10:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
+        "security",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
@@ -3232,11 +3549,11 @@
       "dtstart": "2025-10-23T09:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
         "frontend",
-        "ai",
+        "cloud",
         "backend",
-        "cloud"
+        "security",
+        "ai"
       ],
       "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
       "country": "",
@@ -3257,11 +3574,11 @@
       "dtstart": "2025-10-23T10:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
         "cloud",
+        "security",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
@@ -3302,11 +3619,11 @@
       "dtstart": "2025-10-28T18:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
-        "backend",
         "web",
+        "frontend",
+        "backend",
+        "security",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
@@ -3328,10 +3645,10 @@
       "dtstart": "2025-10-30T10:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
+        "security",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
@@ -3353,10 +3670,10 @@
       "dtstart": "2025-11-13T13:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
+        "security",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
@@ -3400,10 +3717,10 @@
       "dtstart": "2025-11-18T11:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
         "frontend",
-        "ai",
-        "backend"
+        "backend",
+        "security",
+        "ai"
       ],
       "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
       "country": "",
@@ -3425,8 +3742,8 @@
       "dtend": null,
       "tags": [
         "backend",
-        "data",
-        "ai"
+        "ai",
+        "data"
       ],
       "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
       "country": "",
@@ -3447,10 +3764,10 @@
       "dtstart": "2025-11-20T11:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
+        "security",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
@@ -3472,9 +3789,9 @@
       "dtstart": "2025-12-04T19:00:00-06:00",
       "dtend": null,
       "tags": [
-        "mobile",
         "frontend",
         "python",
+        "mobile",
         "ai"
       ],
       "source": "https://www.meetup.com/rust-mx/events/?type=past",
@@ -3496,10 +3813,10 @@
       "dtstart": "2025-12-05T12:00:00-06:00",
       "dtend": null,
       "tags": [
-        "python",
         "frontend",
-        "ai",
+        "python",
         "backend",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
@@ -3544,11 +3861,11 @@
       "dtstart": "2025-12-11T10:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
-        "backend",
         "web",
+        "frontend",
+        "backend",
+        "security",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/kong-mexico-city/events/?type=past",
@@ -3570,12 +3887,12 @@
       "dtstart": "2025-12-11T11:00:00-06:00",
       "dtend": null,
       "tags": [
-        "security",
-        "frontend",
-        "ai",
         "web",
+        "frontend",
         "cloud",
+        "security",
         "devops",
+        "ai",
         "data"
       ],
       "source": "https://www.meetup.com/big-data-developers-in-mexico-city/events/?type=past",
@@ -3616,10 +3933,10 @@
       "dtstart": "2026-01-08T10:00:00-06:00",
       "dtend": "2026-01-08T11:00:00-06:00",
       "tags": [
-        "security",
         "frontend",
-        "ai",
-        "backend"
+        "backend",
+        "security",
+        "ai"
       ],
       "source": "https://www.meetup.com/kong-mexico-city/events/ical",
       "country": "",
